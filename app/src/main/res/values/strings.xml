@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HW2-MertUras</string>
+    <string name="team_name">Team Name</string>
+    <string name="choose">Choose Your Team!</string>
+    <string name="tvItem">Team is selected !! Here Stats</string>
+    <string name="btnName">Back</string>
+    <string name="register">Register</string>
+    <string name="alreadyregister">If you have a account, Sign in!</string>
+    <string name="Subscribe">Subscribe Us Latest News!!!</string>
+    <array name="teams">
+        <item>Bilkent Judges</item>
+        <item>Gorillas</item>
+        <item>Hacettepe Reddeers</item>
+        <item>METU Falcons</item>
+        <item>Mersin Mustangs</item>
+    </array>
+
+    <string-array name="teamStats">
+        <item>Bilkent Judges</item>
+        <item>Gorillas</item>
+        <item>Hacettepe Reddeers</item>
+        <item>METU Falcons</item>
+        <item>Mersin Mustangs</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Bilkent Judges - Champion - 5W 0L</item>
+        <item>Gorillas 3W-2L</item>
+        <item>Hacettepe Reddeers 2W-3L</item>
+        <item>METU Falcons 4W-1L</item>
+        <item>Mersin Mustangs 2W-3L</item>
+    </string-array>
+</resources>
